@@ -55,9 +55,9 @@
   -**Data Types**:
 
 ### Dataset 3: Poverty Across California
-  -**Source**: 
+  - **Source**: 
   
-  -**Dimensions**: 60 rows X 2 columns
+  - **Dimensions**: 60 rows X 2 columns
 
   - **Columns**: 
     - County: Name of the county.
