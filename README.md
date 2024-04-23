@@ -75,7 +75,7 @@
    - Tie to Dataset:
    
 ## Data Manipulations:
-   - (Describe manipulations/)
+   - (Describe manipulations to dataset)
    - Purpose:
 
 ## Analysis and Results:
