@@ -32,7 +32,7 @@
     - Longitude: Longitude coordinates of the the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
   
-  -**Data Types**:
+  -**Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
   - **Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
@@ -52,7 +52,7 @@
     - Longitude: Longitude coordinates of the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
     
-  - **Data Types**:
+  - **Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 3: Poverty Across California
   - **Source**: 
@@ -63,9 +63,7 @@
     - County: Name of the county.
     - CPM Poverty Rating: Poverty rating based on the County.
   
-  - **Data Types**:
-    - Text (String)
-    - Float (Decimal)
+  - **Data Types**: Text (String) and Float (Decimal)
 
 ## Team Questions:
 
