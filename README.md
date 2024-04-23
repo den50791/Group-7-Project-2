@@ -33,8 +33,6 @@
     - Latitude: Latitude coordinates of the hospital location.
   
   -**Data Types**:
-    - 
-  
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
   - **Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
@@ -55,7 +53,6 @@
     - Latitude: Latitude coordinates of the hospital location.
     
   - **Data Types**:
-    -
 
 ### Dataset 3: Poverty Across California
   - **Source**: 
