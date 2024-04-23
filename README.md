@@ -13,10 +13,10 @@
 ## Dataset Description:
 
 ### Dataset 1:
--Source:
--Dimensions:
--Columns:
--Data Types:
+  -Source:
+  -Dimensions:
+  -Columns:
+  -Data Types:
 
 ### Dataset 2:
   -Source:
