@@ -1,4 +1,7 @@
-# Group-7-Project-2
+# MIST 4610 Project 2
+
+# Team Name
+47114 Group 7
 
 ## Team Members:
 1. Leif Hurdal ([@leifhurdal](https://github.com/leifhurdal))
@@ -7,10 +10,10 @@
 4. Vivian Pham ([@vivianpham](https://github.com/vivianxpham))
 5. Ben Williams ([@benwilliams](https://github.com/bendeanwilly))
 
-## Describing your dataset and what data it contains:
+## Dataset Description:
 
-## The 2 questions the team generated and why they are interesting and important:
+## Team Questions:
 
-## The manipulations applied to the data set as part of the analysis:
+## Data Manipulations:
 
 ## Analysis and Results:
