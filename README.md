@@ -37,6 +37,7 @@
   -**Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
   -**Dimensions**: 53216 rows X 11 columns
   -**Columns**:
+  
     - Year: Year of the mortality rate and quanlity rating data.
     - County: County where the hospital is located.
     - Hospital: Name of the hospital.
@@ -49,7 +50,7 @@
     - Longitude: Longitude coordinates of the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
     
-  -**Data Types**: 
+  -**Data Types**:
 
 ### Dataset 3: Poverty Across California
   -**Source**: 
@@ -59,10 +60,11 @@
   -**Columns**: 
   
     - County: Name of the county.
-    
     - CPM Poverty Rating: Poverty rating based on the County.
   
   -**Data Types**:
+    - Text (String)
+    - Float (Decimal)
 
 ## Team Questions:
 
