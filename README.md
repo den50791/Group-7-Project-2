@@ -65,6 +65,7 @@
     - CPM Poverty Rating: Poverty rating based on the County.
   
   -**Data Types**:
+  
     - Text (String)
     - Float (Decimal)
 
