@@ -15,7 +15,6 @@
 ### Dataset 1: California Hospital Performance Ratings
   -**Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-performance-ratings-91d9b/resource/7ac54225-fb51-40c3-b2fb-9979a4bbc620)  
   -**Dimensions**: 25974 rows X 13 columns
-  
   -**Columns**: 
   
     - Year: Year of the performance rating data.
@@ -31,16 +30,13 @@
     - Hospital Ratings: Rating assigned to the hospital based on peformance.
     - Longitude: Longitude coordinates of the the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
-      
   -**Data Types**: 
   
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
   -**Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
   -**Dimensions**: 53216 rows X 11 columns
-  
   -**Columns**:
-  
     - Year: Year of the mortality rate and quanlity rating data.
     - County: County where the hospital is located.
     - Hospital: Name of the hospital.
