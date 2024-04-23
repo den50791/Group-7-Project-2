@@ -31,7 +31,8 @@
     - Hospital Ratings: Rating assigned to the hospital based on peformance.
     - Longitude: Longitude coordinates of the the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
-  -**Data Types**: 
+  -**Data Types**:
+    - 
   
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
@@ -52,7 +53,8 @@
     - Longitude: Longitude coordinates of the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
     
-  -**Data Types**:
+  - **Data Types**:
+    - 
 
 ### Dataset 3: Poverty Across California
   - **Source**: 
