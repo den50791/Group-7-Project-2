@@ -12,8 +12,39 @@
 
 ## Dataset Description:
 
+### Dataset 1:
+-Source:
+-Dimensions:
+-Columns:
+-Data Types:
+
+### Dataset 2:
+  -Source:
+  -Dimensions:
+  -Columns:
+  -Data Types
+
+### Dataset 3:
+  -Source:
+  -Dimensions:
+  -Columns:
+  -Data Types:
+
 ## Team Questions:
 
+1. Question:
+   - Importance:
+   - Tie to Dataset:
+2. Question:
+   - Importance:
+   - Tie to Dataset:
+   
 ## Data Manipulations:
+   - (Describe manipulations/)
+   - Purpose:
 
 ## Analysis and Results:
+   - (Summary of analysis)
+   - Visualizations:
+   - Implications:
+   - Citations:
