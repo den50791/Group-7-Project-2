@@ -25,8 +25,8 @@
     - System: Type of healthcare system the hospital belongs to.
     - Type of Report: Type of performance report.
     - Peformance Measure: Specific measure of hospital peformance being reported.
-    - "#" of Adverse Events: Number of adverse events recorded.
-    - "#" of Cases: Number of cases or procedures evaluated.
+    - Number of Adverse Events: Number of adverse events recorded.
+    - Number of Cases: Number of cases or procedures evaluated.
     - Risk-Adjusted Rate: Peformance rate adjusted for risk factors.
     - Hospital Ratings: Rating assigned to the hospital based on peformance.
     - Longitude: Longitude coordinates of the the hospital location.
@@ -46,8 +46,8 @@
     - OSHPD-ID: Identifier for the hospital from OSHPD (Office of Statewide Health Planning and Development).
     - Procedure/Condition: Medical procedure or condition evaluated for mortality rate.
     - Risk Adjusted Mortality Rate: Mortality rate adjusted for risk factors.
-    - "#" of Deaths: Number of deaths recorded for the procedure/condition.
-    - "#" of Cases: Number of cases or procedures evaluated.
+    - Number of Deaths: Number of deaths recorded for the procedure/condition.
+    - Number of Cases: Number of cases or procedures evaluated.
     - Hospital Ratings: Rating assigned to the hospital based on quality metrics.
     - Longitude: Longitude coordinates of the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
@@ -60,7 +60,6 @@
   -**Dimensions**: 60 rows X 2 columns
 
   - **Columns**: 
-  
     - County: Name of the county.
     - CPM Poverty Rating: Poverty rating based on the County.
   
