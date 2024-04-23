@@ -16,7 +16,7 @@
   -**Source**: [Data.gov](https://catalog.data.gov/dataset)  
   -**Dimensions**: 25974 rows X 13 columns
   
-  -**Columns**: 
+  -Columns: 
     - Year: Year of the performance rating data.
     - County: County where the hospital is located.
     - Hospital: Name of the hospital.
