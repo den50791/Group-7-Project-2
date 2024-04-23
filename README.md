@@ -32,7 +32,7 @@
     - Longitude: Longitude coordinates of the the hospital location.
     - Latitude: Latitude coordinates of the hospital location.
   
-  -**Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
+  - **Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
   - **Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
