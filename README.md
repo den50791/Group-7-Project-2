@@ -55,7 +55,7 @@
     - Latitude: Latitude coordinates of the hospital location.
     
   - **Data Types**:
-     - 
+    -
 
 ### Dataset 3: Poverty Across California
   - **Source**: 
