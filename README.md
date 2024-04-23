@@ -42,25 +42,15 @@
   -**Columns**:
   
     - Year: Year of the mortality rate and quanlity rating data.
-    
     - County: County where the hospital is located.
-    
     - Hospital: Name of the hospital.
-    
     - OSHPD-ID: Identifier for the hospital from OSHPD (Office of Statewide Health Planning and Development).
-    
     - Procedure/Condition: Medical procedure or condition evaluated for mortality rate.
-    
     - Risk Adjusted Mortality Rate: Mortality rate adjusted for risk factors.
-    
     - # of Deaths: Number of deaths recorded for the procedure/condition.
-    
     - # of Cases: Number of cases or procedures evaluated.
-    
     - Hospital Ratings: Rating assigned to the hospital based on quality metrics.
-    
     - Longitude: Longitude coordinates of the hospital location.
-    
     - Latitude: Latitude coordinates of the hospital location.
     
   -**Data Types**: 
