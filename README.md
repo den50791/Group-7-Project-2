@@ -68,7 +68,7 @@
 ## Team Questions:
 
 1. (Question): How do hospital ratings in California affect the average risk-adjusted mortality rate for different procedures?
-   - Importance: The question is important because it allows one to analyze the impact of hospital performances on mortality rates for different medical procedures. This relationship helps hospitals across the state of California to identify and implement quality improvement plans. Considering this, healthcare officials can allocate resources to hospitals with higher mortality rates to improve performance. As for patients, this allows them to make informed decisions to consider hospital ratings based on their medical conditions when seeking medical care. 
+   - Importance: The question is important because it allows one to analyze the impact of hospital performances on mortality rates for different medical procedures. This relationship helps hospitals across the state of California to identify issues concerning quality control and patient care. Therefore, patients are encouraged to make informed decisions about where to get treated based on their medicial conditions when considering the relationship between hospital ratings and mortality rates. 
    - Tie to Dataset: This relates to the second dataset because it provides information on hospital ratings, risk-adjusted mortality rates, and procedure/conditions allowing us to come up with this visual model. 
     
 2. (Question):
