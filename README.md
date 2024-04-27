@@ -79,7 +79,7 @@
    - Purpose: 
 
 ## Analysis and Results:
-   - Our second question showed that the poverty rate by county in California and its respective average risk-adjusted rate showed an R-squared value of 0.0061 and a P-value of 0.5797, indicating that 0.061% of the variability observed in the risk-adjusted mortality rate is explained by the regression model. The P-value of 0.57 is also relatively high and not statistically significant, suggesting that the poverty rate by county does not determine ramr.
+   - Our second question showed that the poverty rate by county in California and its respective average risk-adjusted rate showed an R-squared value of 0.0061 and a P-value of 0.5797, indicating that 0.061% of the variability observed in the risk-adjusted mortality rate is explained by the regression model. The P-value of 0.57 is high and not statistically significant, suggesting that the poverty rate by county does not determine ramr. The p-value indicates that there is a 57% chance we would get the results of the observation if poverty rate and ramr were not correlated.   -  
    - Visualizations:
      ![IMG_3839](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/6fd34b03-c833-4269-92f7-b22f0fb21ae3)
      ![IMG_3838](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/1d970c7e-6c42-4e3d-a0ce-5ac078aa6709)
