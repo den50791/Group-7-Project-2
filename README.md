@@ -13,7 +13,7 @@
 ## Dataset Description:
 
 ### Dataset 1: California Hospital Performance Ratings
-  - **Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-performance-ratings-91d9b/resource/7ac54225-fb51-40c3-b2fb-9979a4bbc620)  
+  - **Source**: [Data.gov/1](https://catalog.data.gov/dataset/california-hospital-performance-ratings-91d9b/resource/7ac54225-fb51-40c3-b2fb-9979a4bbc620)  
   - **Dimensions**: 25974 rows X 13 columns
   
   - **Columns**: 
@@ -35,7 +35,7 @@
   - **Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
-  - **Source**: [Data.gov](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
+  - **Source**: [Data.gov/2](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
   - **Dimensions**: 53216 rows X 11 columns
   
   - **Columns**:
@@ -85,4 +85,3 @@
      ![IMG_3838](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/1d970c7e-6c42-4e3d-a0ce-5ac078aa6709)
      ![image](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/a6d9b112-2c1e-4138-9ef7-303e93f2adca)
    - Limitations: From the California datasets, we concluded that only disease type and hospital rating were indicative of risk-adjusted mortality rates in California, not the poverty rate. However, it should not be assumed that impoverished areas receive the same amount of medical care as affluent areas. This was a limitation of our analysis, as it is possible and very likely that impoverished individuals suffer from lack of healthcare. What can be deduced from our analysis is that if a person is able to receive medical care in an impoverished area, they should not notice a significant difference from the care that they would receive in affluent areas.
-   - Citations:
