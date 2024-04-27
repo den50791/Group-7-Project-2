@@ -75,7 +75,7 @@
    - Tie to Dataset: This relates to the second and third datasets because it provides information on the risk-adjusted mortality rates, county, and CPM poverty ratings with some data manipulation.
    
 ## Data Manipulations:
-   - (Describe manipulations to dataset)
+   - Initially, when comparing poverty rate to RAR, many hospitals were causing the poverty rate by county to appear multiple times. To consolidate the RAR into counties instead of hospitals, we created the following calculated field. {FIXED [County] : AVG([Risk-adjusted Rate])}
    - Purpose: 
 
 ## Analysis and Results:
