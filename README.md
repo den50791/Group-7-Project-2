@@ -73,7 +73,7 @@
     
 2. (Question): What is the relationship between poverty rates and the average risk-adjusted mortality rates by county?
    - Importance: The question is important because it reflects on the understanding of how ones financial situation can affect an outcome of ones health, specifically mortality rates. Economically, there may be costs or threats to the economy as a state or by county for poverty related inequalities. From this, authorities in the state of California may use this insight to hold accountability and implement policies to target possible health disparities regardless of ones income. However, if there is not any clear relationship, officials would be encouraged to investigate other factors besides poverty rates to determine the overall health outcomes of the people.
-   - Tie to Dataset: This relates to the dataset because it provides information on the risk-adjusted mortality rates, counties, and poverty rates with a little bit of data manipulation.
+   - Tie to Dataset: This relates to the second and third dataset because it provides information on the risk-adjusted mortality rates, county, and CPM poverty ratings with a little bit of data manipulation.
    
 ## Data Manipulations:
    - (Describe manipulations to dataset)
