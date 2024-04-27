@@ -13,7 +13,7 @@
 ## Dataset Description:
 
 ### Dataset 1: California Hospital Performance Ratings
-  - **Source**: [Data.gov/1](https://catalog.data.gov/dataset/california-hospital-performance-ratings-91d9b/resource/7ac54225-fb51-40c3-b2fb-9979a4bbc620)  
+  - **Source**: [Data.gov/Dataset1](https://catalog.data.gov/dataset/california-hospital-performance-ratings-91d9b/resource/7ac54225-fb51-40c3-b2fb-9979a4bbc620)  
   - **Dimensions**: 25974 rows X 13 columns
   
   - **Columns**: 
@@ -35,7 +35,7 @@
   - **Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 2: California Hospital Inpatient Mortality Rates and Quality Ratings
-  - **Source**: [Data.gov/2](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
+  - **Source**: [Data.gov/Dataset2](https://catalog.data.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings-c11e9)  
   - **Dimensions**: 53216 rows X 11 columns
   
   - **Columns**:
