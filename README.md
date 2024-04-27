@@ -45,7 +45,7 @@
     - Hospital: Name of the hospital.
     - OSHPD-ID: Identifier for the hospital from OSHPD (Office of Statewide Health Planning and Development).
     - Procedure/Condition: Medical procedure or condition evaluated for mortality rate.
-    - Risk Adjusted Mortality Rate: Mortality rate adjusted for risk factors.
+    - Risk Adjusted Mortality Rate: Mortality rate adjusted for risk factors. The Risk Adjusted Mortality Rates (RAMR) presented here adjusts the observed mortality rates. This statistical methodology takes into account preexisting health problems that put some patients at greater risk of death to “level the playing field” and allow fair comparisons across hospitals.
     - Number of Deaths: Number of deaths recorded for the procedure/condition.
     - Number of Cases: Number of cases or procedures evaluated.
     - Hospital Ratings: Rating assigned to the hospital based on quality metrics.
