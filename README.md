@@ -55,8 +55,7 @@
   - **Data Types**: Numeric (Integer), Text (String), and Numeric (Float)
 
 ### Dataset 3: Poverty Across California
-  - **Source**: 
-  
+  - **Source**: [ppic.org](https://www.ppic.org/data-set/poverty-across-california/)  
   - **Dimensions**: 60 rows X 2 columns
 
   - **Columns**: 
@@ -67,17 +66,17 @@
 
 ## Team Questions:
 
-1. (Question): How do hospital ratings in California affect the average risk-adjusted mortality rate for different procedures? Which procedure was performed "worse" by hospital rating based on the highest risk adjusted mortality rate?
+1. How do hospital ratings in California affect the average risk-adjusted mortality rate for different procedures? Which procedure was performed "worse" by hospital rating based on the highest risk adjusted mortality rate?
    - Importance: The question is important because it allows one to analyze the impact of hospital performance on mortality rates for different medical procedures. This brings signficance for the hospitals in the state of California as well as patients looking for appropriate medical care. Through evaluating the relationship between hospital ratings and mortality rates, hospitals can identify where there may be issues concerning quality control and allocate additional resources for better patient care. From this, incoming patients can make informed decisions when deciding where to receive medical treatment based on their medicial condition/procedure. 
    - Tie to Dataset: This relates to the second dataset because it provides information on hospital ratings, risk-adjusted mortality rates, and procedure/conditions allowing us to come up with this visual model. 
     
-2. (Question): What is the relationship between poverty rates and the average risk-adjusted mortality rates by county?
+2. What is the relationship between poverty rates and the average risk-adjusted mortality rates by county?
    - Importance: The question is important because it reflects on the understanding of how ones financial situation can affect an outcome of ones health, specifically mortality rates. Economically, there may be costs or threats to the economy as a state or by county for poverty related inequalities. From this, authorities in the state of California may use this insight to hold accountability and implement policies to target possible health disparities regardless of ones income. However, if there is not any clear relationship, officials would be encouraged to investigate other factors besides poverty rates to determine the overall health outcomes of the people.
    - Tie to Dataset: This relates to the second and third dataset because it provides information on the risk-adjusted mortality rates, county, and CPM poverty ratings with a little bit of data manipulation.
    
 ## Data Manipulations:
    - (Describe manipulations to dataset)
-   - Purpose:
+   - Purpose: 
 
 ## Analysis and Results:
    - (Summary of analysis)
