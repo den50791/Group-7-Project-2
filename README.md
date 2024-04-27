@@ -80,6 +80,8 @@
 
 ## Analysis and Results:
    - (Summary of analysis)
-   - Visualizations: ![IMG_3836](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/7a34f425-e661-48cb-9dae-9fe0923d0598)
+   - Visualizations:
+   - ![IMG_3836](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/7a34f425-e661-48cb-9dae-9fe0923d0598)
+     ![IMG_3838](https://github.com/den50791/MIST4610-Group-7-Project-2/assets/163002845/1d970c7e-6c42-4e3d-a0ce-5ac078aa6709)
    - Implications:
    - Citations:
