@@ -75,7 +75,7 @@
    - Tie to Dataset: This relates to the second and third datasets because it provides information on the risk-adjusted mortality rates, county, and CPM poverty ratings with some data manipulation.
    
 ## Data Manipulations:
-   - Initially, when comparing poverty rate to RAR, many hospitals were causing the poverty rate by county to appear multiple times. To consolidate the RAR into counties instead of hospitals, we created the following calculated field. {FIXED [County] : AVG([Risk-adjusted Rate])}
+   - Manipulation 1: Initially, when comparing poverty rate to RAR, many hospitals were causing the poverty rate by county to appear multiple times. To consolidate the RAR into counties instead of hospitals, we created the following calculated field. {FIXED [County] : AVG([Risk-adjusted Rate])}
    - Purpose: The purpose of this manipulation was to create a more accurate representation of risk-adjusted mortality rates across different counties in California. By consolidating the RAR at the county level, we aimed to eliminate the impact of individual hospitals that may appear multiple times in the dataset, allowing us to better understand the relationship between the poverty rates and mortality rates at a broader geographic scale. This approach helped us focus on regional patterns and variations in mortality rates, independent of specific hospital-level factors. 
 
 ## Analysis and Results:
